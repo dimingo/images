@@ -24,25 +24,3 @@ Let's make this birthday unforgettable!
 We look forward to celebrating with you!
 
 --------------------------------------------------------
-<style>
-        body {
-            text-align: center;
-            font-family: Arial, sans-serif;
-        }
-
-        .poster {
-            display: inline-block;
-            text-align: left;
-            padding: 20px;
-            border: 2px solid #333;
-            border-radius: 10px;
-            max-width: 400px;
-            margin: 0 auto;
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-            margin: 0 auto;
-        }
-    </style>
