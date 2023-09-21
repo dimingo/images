@@ -1,13 +1,9 @@
 <div align="center">
   <img src="istockphoto-1460241982-1024x1024-4A5YS_-VM-transformed.jpeg" width="400" />
 </div>
-
-
-  
-
---------------------------------------------------------
-              🎉 A CHARLATAN BIRTHDAY CELEBRATION 🎉
---------------------------------------------------------
+------------------------------------
+              🎉 A CHARLATAN BIRTHDAY EXPERIENCE 🎉
+-------------------------------------
 
 Join us for a fantastic evening of celebration!
 
@@ -18,7 +14,8 @@ Join us for a fantastic evening of celebration!
 ## 📍 Location: __Olepolos Country Club__
 
 ### 🥂 Drinks 🍹 and 🍖 Delicious BBQ Meats 🍖
-available for everyone, so come hungry and thirsty!
+
+All will be available for everyone, so come hungry and thirsty!
 
 💰 Pay what you can - Depending on how deep your pockets are! 💰
 
