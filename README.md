@@ -1,9 +1,9 @@
 <div align="center">
   <img src="istockphoto-1460241982-1024x1024-4A5YS_-VM-transformed.jpeg" width="400" />
 </div>
+
 ------------------------------------
               🎉 A CHARLATAN BIRTHDAY EXPERIENCE 🎉
--------------------------------------
 
 Join us for a fantastic evening of celebration!
 
