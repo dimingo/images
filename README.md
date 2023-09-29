@@ -65,6 +65,5 @@ We look forward to celebrating with you!
    <td>
     Location change to Club 📍
 </td>
- </tr>
   </tr>
 </table>
